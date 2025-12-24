@@ -1,2 +1,2 @@
-# PythonProject10
+# Live
 the game of live
